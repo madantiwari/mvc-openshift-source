@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "mvc-openshift-source", "mvc-openshift-source.xproj", "{78627BB3-851E-4C1A-91C0-629FC7C15F8F}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "aspnet-example", "aspnet-example.xproj", "{78627BB3-851E-4C1A-91C0-629FC7C15F8F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
